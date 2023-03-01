@@ -1,0 +1,73 @@
+{
+    "drinks": [{"dow":false,
+    "ingredients":{
+        "Grenadine":0.25,
+        "Orange Juice":4,
+        "Tequila":2
+    },
+    "isVirgin":true,
+    "name":"Tequila Sunrise"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Club Soda":3,
+        "Grenadine":0.5,
+        "Lemon Juice":0.5,
+        "Simple Syrup":0.5,
+        "Whiskey":1.5
+    },
+    "isVirgin":false,
+    "name":"Wild Irish Rose"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Blue Curacao":0.25,
+        "Lemon Juice":0.5,
+        "Lime Juice":0.5,
+        "Simple Syrup":0.75,
+        "Tequila":1,
+        "Triple Sec":0.5
+    },
+    "isVirgin":false,
+    "name":"Malibu Wave"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Gin":1.5,
+        "Lemon Juice":1,
+        "Triple Sec":1
+    },
+    "isVirgin":false,
+    "name":"White Lady"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Cream of Coconut":1.5,
+        "Light Rum ":2,
+        "Lime Juice":0.5,
+        "Pineapple Juice":1.5
+    },
+    "isVirgin":true,
+    "name":"Pina Colada"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Midori":2,
+        "Lemon Juice":2,
+        "Triple Sec":2
+    },
+    "isVirgin":false,
+    "name":"Japanese Slipper"
+    },
+    {"dow":true,
+    "ingredients":{
+        "Lemonade":1,
+        "Malibu":2,
+        "Strawberries":1,
+        "Sugar":1
+    },
+    "isVirgin":true,
+    "name":"Sarahs Strawberry Slush"
+    }
+    ]
+}
