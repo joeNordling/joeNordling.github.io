@@ -1,0 +1,75 @@
+{
+    "drinks": [
+        {
+            "dow":false,
+            "ingredients":{
+                "Rye Whiskey":2,
+                "Vermouth":0.5,
+                "Bitters":1
+            },
+            "isVirgin":false,
+            "isOriginal":false,
+            "name": "Manhattan"
+            },
+            {
+                "dow":false,
+                "ingredients":{
+                    "Sugar":2,
+                    "Water":0.5,
+                    "Bourbon":1,
+                    "Angostura Bitters":1
+                },
+                "isVirgin":false,
+                "isOriginal":false,
+                "name": "Old Fashioned"
+                },
+        {
+            "dow":false,
+            "ingredients":{
+                "Gin":2,
+                "Honey Syrup":1,
+                "Lemon Juice":1
+            },
+            "isVirgin":false,
+            "isOriginal":false,
+            "name": "Bee's Knees"
+            },
+        {
+            "dow":false,
+            "ingredients":{
+                "Orange Rum":2,
+                "Lime Juice":0.5,
+                "Cranberry Juice":1,
+                "Triple Sec":0.5
+            },
+            "isVirgin":false,
+            "isOriginal":true,
+            "name": "Cosmo Joe"
+            },
+            
+            
+                {
+                    "dow":false,
+                    "ingredients":{
+                        "Vodka":2,
+                        "Lemon Juice":0.5,
+                        "Soda Water":1
+                    },
+                    "isVirgin":false,
+                    "isOriginal":false,
+                    "name": "Vodka Collins"
+                    },
+                    {
+                        "dow":false,
+                        "ingredients":{
+                            "Tequila":2,
+                            "Squirt":0.5,
+                            "Lime Juice":1
+                        },
+                        "isVirgin":true,
+                        "isOriginal":false,
+                        "name": "Paloma"
+                        }
+            
+]
+}
