@@ -1,0 +1,57 @@
+{
+    "drinks": [
+    {"dow":false,
+    "ingredients":{
+        "Club Soda":3,
+        "Grenadine":0.5,
+        "Lemon Juice":0.5,
+        "Simple Syrup":0.5,
+        "Whiskey":1.5
+    },
+    "isVirgin":false,
+    "isOriginal":false,
+
+    "name":"Wild Irish Rose"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Midori":2,
+        "Lemon Juice":2,
+        "Triple Sec":2
+    },
+    "isVirgin":false,
+    "isOriginal":false,
+
+    "name":"Japanese Slipper"
+    },
+    {"dow":false,
+    "ingredients":{
+        "Strawberry Vodka":4,
+        "Ginger Beer":1,
+        "Lime Juice":0.5,
+        "Strawberry Syrup":0.5
+    },
+    "isVirgin":false,
+    "isOriginal":false,
+
+    "name":"Strawberry Kyiv Mule"
+    },
+
+                            {
+                                "dow":false,
+                                "ingredients":{
+                                    "Cranberry Juice":2,
+                                    "Whiskey":1,
+                                    "Ginger Beer":1,
+                                    "Lime Juice":1,
+                                    "Simple Syrup (Optional)":1
+        
+                                },
+                                "isVirgin":true,
+                                "isOriginal":false,
+                                "name": "Cranberry Orange Whiskey Sour"
+                                }
+                                
+                    
+]
+}
