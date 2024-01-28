@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "291505d4677f59efb14ede1e59a68716",
-"index.html": "6b1f6d95eee867bed92aaf89b3a5a2e5",
-"/": "6b1f6d95eee867bed92aaf89b3a5a2e5",
+"index.html": "7008f3a10e98537b9f87a07a913de0e4",
+"/": "7008f3a10e98537b9f87a07a913de0e4",
 "main.dart.js": "4736e9ad010155aa1d7d7075d0c47998",
 "favicon.png": "6fa00cd77fd33a0d385ef49ad103d8c2",
 "icons/Icon-192.png": "b7d8d10eef2cf87b9b53539f8879c66a",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "abc9d01a0bb18d86195c6053d652f149",
 "Minimal-Favicon.png": "0b142f8f8dcc0a90131fab06535a200b",
 "manifest.json": "735685e3f20e6391cbda9e9b201bf6ab",
-"assets/AssetManifest.json": "2f7ace13a1bde50c538d4d63a07c16f8",
+"assets/AssetManifest.json": "e5bee9a9df509e6976c7b4a4cc1e63b7",
 "assets/NOTICES": "35b33f98e02af8de6b9b1988d1af5fab",
 "assets/FontManifest.json": "ee7c6a013caf2fecaa1973598248e72f",
 "assets/packages/loading_gifs/assets/images/circular_progress_indicator_small.gif": "502a31bacaa2182d511eb4866354fbab",
@@ -58,6 +58,7 @@ const RESOURCES = {
 "assets/assets/images/fitzy.jpg": "8aeac2b726b3984229108311e5729aec",
 "assets/assets/images/pearl-harbor.jpg": "8de39db4e589c214a909e0741804977d",
 "assets/assets/images/grasshopper.jpg": "a736ebec32e3d548029db9ac00b42fbb",
+"assets/assets/images/logo.jpg": "731eb4a565cabd57c0a9939b7df4260e",
 "assets/assets/images/last-word.jpg": "f9bf064cc2ffb5e93379295f4b663a25",
 "assets/assets/images/paloma.jpg": "a26f6677786b86e0e2087b689cf34ecf",
 "assets/assets/images/sarah's-strawberry-slush.jpg": "fb397f35e3839df92972f6faa544fce5",
